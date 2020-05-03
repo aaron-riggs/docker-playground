@@ -1,0 +1,16 @@
+{
+  "name": "docker-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.x",
+    "redis": "2.8.x"
+  }
+}
